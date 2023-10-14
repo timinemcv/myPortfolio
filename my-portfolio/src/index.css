@@ -443,6 +443,16 @@ body {
 }
 
 /* contact design  */
+.success-message {
+  background-color: var(--text-color);
+  color: black;
+  border-radius: 30px;
+  width: 250px;
+  font-size: 17px;
+  position: absolute;
+  left: 450px;
+  bottom: 350px;
+}
 
 .contact {
   padding: 8rem;
@@ -457,6 +467,7 @@ body {
 }
 
 .contact form {
+  position: relative;
   max-width: 70rem;
   margin: 1rem auto;
   text-align: center;

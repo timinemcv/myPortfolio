@@ -1,5 +1,3 @@
-import "boxicons";
-
 const Home = ({ el, avatar }) => {
   return (
     <section className="home" id="home">

@@ -1,5 +1,5 @@
 import React from "react";
-import sample from "../assets/admin.png";
+import sample from "../assets/Tumblr-App.png";
 import sample1 from "../assets/Google-Drive.png";
 import sample2 from "../assets/dashboard.png";
 import sample3 from "../assets/applepage.jpg";
@@ -70,11 +70,8 @@ const Portfolio = () => {
           <div className="portfolio-box">
             <img src={sample} alt="" />
             <div className="portfolio-layer">
-              <h4>Admin Dashboard</h4>
-              <p>
-                Custom Dashboard, Where we can upload and delete items on
-                sassiholford.
-              </p>
+              <h4>Tumblr</h4>
+              <p>Blog</p>
               <a href="" target="_blank">
                 <i className="bx bx-link-external"></i>
               </a>
