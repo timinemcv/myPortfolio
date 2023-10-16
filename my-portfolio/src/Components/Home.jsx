@@ -3,7 +3,7 @@ const Home = ({ el, avatar }) => {
     <section className="home" id="home">
       <div className="home-content">
         <h3>Hello, It's Me</h3>
-        <h1>Timileyin Micheal.</h1>
+        <h1>Timmy.</h1>
         <h3>
           And I'm a <span className="multiple-text" ref={el} />
         </h3>
