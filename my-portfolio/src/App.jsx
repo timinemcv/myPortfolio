@@ -13,7 +13,7 @@ function App() {
 
   useEffect(() => {
     const typed = new Typed(el.current, {
-      strings: ["Business Analyst & Frontend Developer"],
+      strings: ["Business Analyst & a Frontend Developer"],
       typeSpeed: 100,
       backSpeed: 100,
       backdDelay: 1000,

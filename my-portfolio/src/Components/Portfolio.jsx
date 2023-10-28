@@ -32,7 +32,7 @@ const Portfolio = () => {
             <div className="portfolio-layer">
               <h4>Google Drive</h4>
               <p></p>
-              <a href="" target="_blank">
+              <a href="https://github.com/timinemcv">
                 <i className="bx bx-link-external"></i>
               </a>
             </div>
@@ -42,7 +42,7 @@ const Portfolio = () => {
             <div className="portfolio-layer">
               <h4>Funifier Dashboard</h4>
               <p>My BAGC workplacement Project</p>
-              <a href="" target="_blank">
+              <a href="https://github.com/timinemcv">
                 <i className="bx bx-link-external"></i>
               </a>
             </div>
@@ -62,7 +62,7 @@ const Portfolio = () => {
             <div className="portfolio-layer">
               <h4>Logical Operation</h4>
               <p>Cloned logical operation Website. Click on the link below:</p>
-              <a href="" target="_blank">
+              <a href="https://github.com/timinemcv">
                 <i className="bx bx-link-external"></i>
               </a>
             </div>
@@ -72,7 +72,7 @@ const Portfolio = () => {
             <div className="portfolio-layer">
               <h4>Tumblr</h4>
               <p>Blog</p>
-              <a href="" target="_blank">
+              <a href="https://github.com/timinemcv">
                 <i className="bx bx-link-external"></i>
               </a>
             </div>

@@ -5,7 +5,7 @@ const Home = ({ el, avatar }) => {
         <h3>Hello, It's Me</h3>
         <h1>Timmy.</h1>
         <h3>
-          And I'm a <span className="multiple-text" ref={el} />
+          I'm a <span className="multiple-text" ref={el} />
         </h3>
         <p>
           As a business analyst, I bridge technology and business, turning
@@ -37,8 +37,8 @@ const Home = ({ el, avatar }) => {
           </a>
         </div>
         <a
-          href="https://drive.google.com/file/d/1Z7hL8dDvBUc6PQCtC8F791Rvr5lbp0bc/view?usp=sharing"
-          download=""
+          href="https://drive.google.com/file/d/1dJSE1q0k2Tz39zg_6qjibJ2vSocC0InB/view?usp=drive_link"
+          download
           className="btn"
         >
           Download Resume
